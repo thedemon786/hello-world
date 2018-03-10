@@ -1,2 +1,2 @@
 # hello-world
-just entering the world of github
+just entered the world of github
